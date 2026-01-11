@@ -1,0 +1,7 @@
+targets:
+  - scanme.nmap.org
+  - yourserver.com
+
+scan_type: "-sV --script vuln"
+
+report_format: html   # html or text
