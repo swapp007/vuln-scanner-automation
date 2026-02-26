@@ -1,1 +1,1 @@
-print ("wassup buddy !! Version 7.9")
+parint ("wassup buddy !! Version 7.9")
